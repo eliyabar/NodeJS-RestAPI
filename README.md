@@ -29,9 +29,6 @@ npm start
 * [Express](https://expressjs.com/) - The web framework used
 * [Sequelize](https://sequelize.org/v5/) - ORM
 
-## Author
-* **Eliya Bar On**
-
 
 ## License
 
